@@ -17,5 +17,9 @@
   "bugs": {
     "url": "https://github.com/simeon-dev1/restaurant-page/issues"
   },
-  "homepage": "https://github.com/simeon-dev1/restaurant-page#readme"
+  "homepage": "https://github.com/simeon-dev1/restaurant-page#readme",
+  "devDependencies": {
+    "webpack": "^5.105.2",
+    "webpack-cli": "^6.0.1"
+  }
 }
