@@ -1,0 +1,21 @@
+{
+  "name": "restaurant-page",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/simeon-dev1/restaurant-page.git"
+  },
+  "keywords": [],
+  "author": "simeon-dev1",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/simeon-dev1/restaurant-page/issues"
+  },
+  "homepage": "https://github.com/simeon-dev1/restaurant-page#readme"
+}
