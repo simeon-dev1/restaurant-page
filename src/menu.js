@@ -18,7 +18,7 @@ export const loadMenu = () => {
 		            <div class="menu-details">
 		                <h3>Signature Dish</h3>
 		                <p class="description">A mouthwatering combination of flavors that will delight your taste buds</p>
-		                <p class="price">$14.99</p>
+		                <p class="price">#14,000 Naira</p>
 		                <button>Add to Cart</button>
 		            </div>
 		        </div>
@@ -30,7 +30,7 @@ export const loadMenu = () => {
 		            <div class="menu-details">
 		                <h3>Chef's Special</h3>
 		                <p class="description">Prepared with love and the finest ingredients from local farms</p>
-		                <p class="price">$18.99</p>
+		                <p class="price">#18,000 Naira</p>
 		                <button>Add to Cart</button>
 		            </div>
 		        </div>
@@ -42,7 +42,7 @@ export const loadMenu = () => {
 		            <div class="menu-details">
 		                <h3>Family Feast</h3>
 		                <p class="description">Perfect for sharing! A generous portion served with all the fixings</p>
-		                <p class="price">$24.99</p>
+		                <p class="price">#20,000 Naira</p>
 		                <button>Add to Cart</button>
 		            </div>
 		        </div>
