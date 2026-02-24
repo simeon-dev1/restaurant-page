@@ -8,7 +8,7 @@ export const loadMenu = () => {
 	root.innerHTML = "";
 	root.innerHTML = `
 		<div id="menu">
-		    <h2>Our Menu</h2>
+		    <h1>Our Menu</h1>
 		    
 		    <div class="menu-items">
 		        <div class="menu-item">
